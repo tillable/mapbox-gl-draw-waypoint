@@ -6,6 +6,7 @@
     "mapbox-gl",
     "mapbox-gl-draw"
   ],
+  "type": "module",
   "author": "Jan Zak <zj@zakjan.cz>",
   "license": "MIT",
   "repository": "github:zakjan/mapbox-gl-draw-waypoint",
